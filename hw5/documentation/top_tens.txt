@@ -1,0 +1,60 @@
+Topic 1:
+['function', 'network', 'input', 'bound', 'number', 'neural', 'set', 'learning', 'weight', 'result']
+Topic 2:
+['learning', 'function', 'action', 'algorithm', 'policy', 'system', 'model', 'problem', 'control', 'reinforcement']
+Topic 3:
+['neuron', 'model', 'network', 'input', 'spike', 'neural', 'pattern', 'system', 'synaptic', 'function']
+Topic 4:
+['weight', 'network', 'learning', 'algorithm', 'error', 'function', 'gradient', 'neural', 'training', 'input']
+Topic 5:
+['estimator', 'data', 'case', 'variance', 'bias', 'set', 'error', 'linear', 'solution', 'squares']
+Topic 6:
+['word', 'network', 'recognition', 'speech', 'training', 'system', 'model', 'set', 'neural', 'hmm']
+Topic 7:
+['classifier', 'training', 'set', 'network', 'problem', 'error', 'rbf', 'pattern', 'classification', 'neural']
+Topic 8:
+['motion', 'direction', 'cell', 'visual', 'model', 'unit', 'field', 'network', 'input', 'velocity']
+Topic 9:
+['model', 'network', 'gaussian', 'distribution', 'function', 'data', 'mean', 'parameter', 'method', 'algorithm']
+Topic 10:
+['network', 'neural', 'controller', 'control', 'feedback', 'plant', 'feed', 'error', 'forward', 'input']
+Topic 11:
+['rotation', 'group', 'listing', 'lie', 'eye', 'law', 'algebra', 'axis', 'space', 'plane']
+Topic 12:
+['rule', 'rules', 'system', 'fuzzy', 'cell', 'set', 'neural', 'function', 'network', 'input']
+Topic 13:
+['model', 'signal', 'frequency', 'filter', 'sound', 'auditory', 'output', 'input', 'system', 'analog']
+Topic 14:
+['network', 'neural', 'system', 'neuron', 'function', 'dynamic', 'point', 'input', 'pattern', 'model']
+Topic 15:
+['network', 'input', 'neural', 'system', 'image', 'set', 'training', 'images', 'recognition', 'output']
+Topic 16:
+['algorithm', 'function', 'learning', 'set', 'problem', 'vector', 'result', 'number', 'training', 'error']
+Topic 17:
+['data', 'set', 'vector', 'network', 'function', 'algorithm', 'training', 'input', 'point', 'learning']
+Topic 18:
+['network', 'neural', 'input', 'training', 'learning', 'output', 'model', 'system', 'unit', 'set']
+Topic 19:
+['control', 'system', 'gain', 'cell', 'pathway', 'descending', 'input', 'controller', 'model', 'neuron']
+Topic 20:
+['model', 'data', 'algorithm', 'set', 'learning', 'parameter', 'network', 'number', 'distribution', 'function']
+Topic 21:
+['model', 'learning', 'control', 'network', 'dynamic', 'trajectory', 'forward', 'system', 'movement', 'motor']
+Topic 22:
+['network', 'chip', 'input', 'circuit', 'neural', 'neuron', 'analog', 'weight', 'output', 'system']
+Topic 23:
+['unit', 'network', 'input', 'learning', 'hidden', 'weight', 'output', 'training', 'layer', 'function']
+Topic 24:
+['neuron', 'input', 'network', 'model', 'synaptic', 'potential', 'cell', 'connection', 'firing', 'neural']
+Topic 25:
+['model', 'visual', 'eye', 'system', 'movement', 'network', 'position', 'input', 'unit', 'target']
+Topic 26:
+['network', 'error', 'training', 'learning', 'set', 'weight', 'generalization', 'data', 'function', 'neural']
+Topic 27:
+['cell', 'model', 'input', 'orientation', 'neuron', 'visual', 'cortical', 'field', 'cortex', 'response']
+Topic 28:
+['bootstrap', 'prediction', 'distribution', 'interval', 'network', 'model', 'input', 'training', 'method', 'confidence']
+Topic 29:
+['function', 'model', 'component', 'algorithm', 'signal', 'system', 'data', 'image', 'information', 'neural']
+Topic 30:
+['object', 'model', 'view', 'network', 'image', 'recognition', 'point', 'set', 'images', 'features']

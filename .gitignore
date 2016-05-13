@@ -20,3 +20,6 @@ vignettes/*.pdf
 
 #DS Store
 .DS_Store
+
+#PyCharm
+.idea
